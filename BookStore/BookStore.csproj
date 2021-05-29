@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <UserSecretsId>aspnet-BookStore-A9F2D6D8-1F9E-434A-9E5D-06725F81E1D1</UserSecretsId>
+    <UserSecretsId>aspnet-BookStore-6ECC7B09-8B0F-48D1-9B96-B39384A59207</UserSecretsId>
     <CopyRefAssembliesToPublishDirectory>false</CopyRefAssembliesToPublishDirectory>
   </PropertyGroup>
 
